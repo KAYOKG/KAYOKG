@@ -8,7 +8,7 @@
 
 I'm a Fullstack Developer :smile:
 
-I Love code and create new stuff, i like too much to discover new technologies and getting into interesting projects.
+I to Love code and create new stuff, i like too much to discover new technologies and getting into interesting projects.
 
 ## My specialties:
 
