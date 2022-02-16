@@ -1,4 +1,3 @@
-
 # Hi, I'm Kayo Galdino!
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/KAYOKG)](https://github.com/KAYOKG)
@@ -31,4 +30,3 @@ I to love code and create new stuff, i like too much to discover new technologie
 ## What I don't know, give me a few days 😁
 
 [![kayokg github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KAYOKG&theme=vue)](https://github.com/KAYOKG)
-
