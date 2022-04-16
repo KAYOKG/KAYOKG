@@ -5,7 +5,7 @@
 
 ## About me:
 
-I'm a Fullstack Developer :smile:
+What you are seeing is my summary that I follow to study :smile:
 
 I to love code and create new stuff, i like too much to discover new technologies and getting into interesting projects.
 
