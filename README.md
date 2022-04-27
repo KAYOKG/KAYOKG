@@ -20,7 +20,7 @@ I to love code and create new stuff, i like too much to discover new technologie
 
 ### Hosting: <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/> 
 
-### Frameworks: 
+### Frameworks: <img src ="https://img.shields.io/badge/Kotlin%20-%a4c639.svg?&style=for-the-badge&logo=Kotlin&logoColor=%7F52FF"/> <img src ="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=WordPress&logoColor=white"/>
 
 ### What I don't know, give me a few days 😁
 
