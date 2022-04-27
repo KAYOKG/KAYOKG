@@ -8,11 +8,9 @@ I to love code and create new stuff, i like too much to discover new technologie
 
 ## My focus:
 
-### Languages: <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/>
+### Frontend: <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/react%20JS%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 
-### Frontend: <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/react%20JS%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>  <img src="https://img.shields.io/badge/Next.js%20-000000?style=for-the-badge&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/vue.JS%20-%2320232a.svg?&style=for-the-badge&logo=Vue.js&logoColor=#4FC08D"/>
-
-### Backend: <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> 
+### Backend: <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 
 ### Database: <img src ="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
 
@@ -20,7 +18,7 @@ I to love code and create new stuff, i like too much to discover new technologie
 
 ### Hosting: <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/> 
 
-### Frameworks: <img src ="https://img.shields.io/badge/Kotlin%20-%a4c639.svg?&style=for-the-badge&logo=Kotlin&logoColor=%7F52FF"/> <img src ="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=WordPress&logoColor=white"/>
+### Frameworks: <img src ="https://img.shields.io/badge/Kotlin%20-%a4c639.svg?&style=for-the-badge&logo=Kotlin&logoColor=%7F52FF"/> <img src ="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=WordPress&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/> <img src="https://img.shields.io/badge/Next.js%20-000000?style=for-the-badge&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/vue.JS%20-%2320232a.svg?&style=for-the-badge&logo=Vue.js&logoColor=#4FC08D"/>
 
 ### What I don't know, give me a few days 😁
 
