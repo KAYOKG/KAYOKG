@@ -1,10 +1,10 @@
-# Hi, I'm Kayo Galdino!
+# Hi, I'm Kayo Galdino! [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=2500&color=8FFFFB&background=FF625200&multiline=true&height=27&lines=Venidici+%E2%9E%A4+Veni+Vidi+Vici+%EF%BC%9D+VIM%2C+VI+e+VENCI)](https://git.io/typing-svg)
 
 ### About me:
 
-What you are seeing is my summary that I follow to study :smile:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=500&color=FFFFFF&background=FFFA7A00&multiline=true&width=540&height=27&lines=What+you+are+seeing+is+my+summary+that+I+follow+to+study+%F0%9F%98%84)](https://git.io/typing-svg)
 
-I to love code and create new stuff, i like too much to discover new technologies and getting into interesting projects.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=10000&pause=500&color=FFFFFF&background=FFFA7A00&multiline=true&width=1100&height=27&lines=I+to+love+code+and+create+new+stuff%2C+i+like+too+much+to+discover+new+technologies+and+getting+into+interesting+projects.)](https://git.io/typing-svg)
 
 ## My focus:
 
