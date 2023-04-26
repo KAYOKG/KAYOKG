@@ -1,12 +1,18 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6c09bd&height=180&section=header&text=VENI+VIDI+VICI&fontSize=30&fontColor=6407b0&animation=twinkling&fontAlignY=35"/>
 
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6c09bd&size=35&center=true&vCenter=true&width=1000&lines=HI,+I+am+Kayo+Galdino;I'm+20+years+old;I+am+from+Manhuaçu,+MG;I+study+information+systems+at+UFU;Be+Welcome!🎉)](https://git.io/typing-svg)
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=KAYOKG&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=9932CC&bg_color=0a0c10" alt="Kayo Galdino github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAYOKG&layout=compact&hide_border=true&title_color=8A2BE2&text_color=9932CC&bg_color=0a0c10" />
 </div>
+
+
+  <img width="40%" height="250px" src="https://github-readme-stats.vercel.app/api?username=KAYOKG&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=9932CC&bg_color=0a0c10" alt="Kayo Galdino github stats" /> 
+  <div align="center">
+  <img width="40%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAYOKG&layout=compact&hide_border=true&title_color=8A2BE2&text_color=9932CC&bg_color=0a0c10" />
+  <a href="https://app.daily.dev/KAYOKG"><img align="center" src="https://api.daily.dev/devcards/f6b41704317f4b4e93f8b0725af35da5.png?r=guq" width="300" alt="Kayo Galdino's Dev Card"/></a>
+  
+</div>
+
 
 [![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=KAYOKG&bg_color=0a0c10&color=6c09bd&line=9932CC&point=4a256b&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
