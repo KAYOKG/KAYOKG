@@ -9,8 +9,9 @@
 <div >
 
   <img width="550px" height="125px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAYOKG&layout=compact&hide_border=true&title_color=8A2BE2&text_color=9932CC&bg_color=0a0c10" />
+  <img width="550px" height="125px" align="left" src="https://github-readme-stats.vercel.app/api?username=KAYOKG&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=9932CC&bg_color=0a0c10" alt="Kayo Galdino github stats" /> 
   <a href="https://app.daily.dev/KAYOKG"><img height="350px" src="https://api.daily.dev/devcards/f6b41704317f4b4e93f8b0725af35da5.png?r=guq" alt="Kayo Galdino's Dev Card"/></a>
-    <img width="550px" height="125px" align="left" src="https://github-readme-stats.vercel.app/api?username=KAYOKG&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=9932CC&bg_color=0a0c10" alt="Kayo Galdino github stats" /> 
+    
 </div>
   
 <div align="center">
