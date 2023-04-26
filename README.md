@@ -11,7 +11,7 @@
   <img width="427px" height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAYOKG&layout=compact&hide_border=true&title_color=8A2BE2&text_color=9932CC&bg_color=0a0c10" />
   <a href="https://app.daily.dev/KAYOKG"><img height="350px"  src="https://api.daily.dev/devcards/f6b41704317f4b4e93f8b0725af35da5.png?r=guq" alt="Kayo Galdino's Dev Card"/></a>
 </div>
-  
+  </br>
 <div align="center">
   
 [![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=KAYOKG&bg_color=0a0c10&color=6c09bd&line=9932CC&point=4a256b&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
