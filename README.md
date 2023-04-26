@@ -5,16 +5,17 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6c09bd&size=35&center=true&vCenter=true&width=1000&lines=HI,+I+am+Kayo+Galdino;I'm+20+years+old;I+am+from+Manhuaçu,+MG;I+study+information+systems+at+UFU;Be+Welcome!🎉)](https://git.io/typing-svg)
 </div>
 
-
-  <img width="40%" height="250px" src="https://github-readme-stats.vercel.app/api?username=KAYOKG&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=9932CC&bg_color=0a0c10" alt="Kayo Galdino github stats" /> 
-  <div align="center">
-  <img width="40%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAYOKG&layout=compact&hide_border=true&title_color=8A2BE2&text_color=9932CC&bg_color=0a0c10" />
-  <a href="https://app.daily.dev/KAYOKG"><img align="center" src="https://api.daily.dev/devcards/f6b41704317f4b4e93f8b0725af35da5.png?r=guq" width="300" alt="Kayo Galdino's Dev Card"/></a>
+<div align="center">
+  <img width="35%" height="400px" src="https://github-readme-stats.vercel.app/api?username=KAYOKG&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=9932CC&bg_color=0a0c10" alt="Kayo Galdino github stats" /> 
+    <a href="https://app.daily.dev/KAYOKG"><img src="https://api.daily.dev/devcards/f6b41704317f4b4e93f8b0725af35da5.png?r=guq" width="300" alt="Kayo Galdino's Dev Card"/></a>
   
+  <img width="35%" height="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAYOKG&layout=compact&hide_border=true&title_color=8A2BE2&text_color=9932CC&bg_color=0a0c10" />
 </div>
 
-
+<div align="center">
+  
 [![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=KAYOKG&bg_color=0a0c10&color=6c09bd&line=9932CC&point=4a256b&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</div>
 
 <div align="center"> 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=10000&pause=5000&color=6C09BD&vCenter=true&width=350&height=30&lines=A+LITTLE+ABOUT+MY+STUDY+FOCUS" alt="Typing SVG" /></a>
