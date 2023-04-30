@@ -29,7 +29,7 @@
 
 </div>
   
-## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=6C09BD&vCenter=true&width=75&height=20&lines=Socials" alt="Typing SVG" /></a>
+## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=6C09BD&vCenter=true&width=85&height=20&lines=Socials" alt="Typing SVG" /></a>
 
 <div>
   <a href="https://discord.com/channels/@me/925586869255831643" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/kayo-galdino/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="[http://www.instagram.com/dc](https://www.instagram.com/kayogaldino/)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> 
