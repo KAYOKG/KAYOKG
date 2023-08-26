@@ -5,9 +5,9 @@
 <a href="https://github.com/KAYOKG">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6474B9&size=35&center=true&vCenter=true&width=1000&lines=HI,+I+am+Kayo+Galdino;I'm+20+years+old;I+am+from+Manhuaçu,+MG;I+study+information+systems+at+UFU;Be+Welcome!🎉)](https://git.io/typing-svg)
-<a href="https://github.com/KAYOKG">
-  </div>
 </a>
+  </div>
+
 
 <div align="left">
 
