@@ -1,32 +1,38 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6c09bd&height=180&section=header&text=VENI+VIDI+VICI&fontSize=30&fontColor=6407b0&animation=twinkling&fontAlignY=35"/>
+<a href="https://github.com/KAYOKG"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=423A5E&height=180&section=header&text=VENI+VIDI+VICI&fontSize=30&fontColor=6474B9&animation=twinkling&fontAlignY=35"/></a>
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6c09bd&size=35&center=true&vCenter=true&width=1000&lines=HI,+I+am+Kayo+Galdino;I'm+20+years+old;I+am+from+Manhuaçu,+MG;I+study+information+systems+at+UFU;Be+Welcome!🎉)](https://git.io/typing-svg)
+<a href="https://github.com/KAYOKG">
+  <div align="center">
 
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6474B9&size=35&center=true&vCenter=true&width=1000&lines=HI,+I+am+Kayo+Galdino;I'm+20+years+old;I+am+from+Manhuaçu,+MG;I+study+information+systems+at+UFU;Be+Welcome!🎉)](https://git.io/typing-svg)
+
+  </div>
+</a>
 
 <div align="left">
-  <img width="465px" height="140px"  align="left" src="https://github-readme-stats.vercel.app/api?username=KAYOKG&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=9932CC&bg_color=0a0c10&hide=contribs&thme=transparent&include_all_commits=false&rank_icon=github" alt="Kayo Galdino github stats" /> 
-  <img width="427px" height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAYOKG&layout=compact&hide_border=true&title_color=8A2BE2&text_color=9932CC&bg_color=0a0c10&thme=transparent" />
+
+  <img width="465px" height="140px"  align="left" src="https://github-readme-stats.vercel.app/api?username=KAYOKG&show_icons=true&count_private=true&hide_border=true&title_color=6474B9&icon_color=6474B9&text_color=937CD5&bg_color=0a0c10&hide=contribs&thme=transparent&include_all_commits=false&rank_icon=github" alt="Kayo Galdino github stats" />
+  <img width="427px" height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAYOKG&layout=compact&hide_border=true&title_color=6474B9&text_color=937CD5&bg_color=0a0c10&thme=transparent" />
   <a href="https://app.daily.dev/KAYOKG"><img height="350px"  src="https://github.com/KAYOKG/KAYOKG/blob/main/devcard.svg" alt="Kayo Galdino's Dev Card"/></a>
-</div>
-  </br>
-<div align="center">
 
-[![KG's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KAYOKG&bg_color=0a0c10&color=6c09bd&line=411f42&point=4a256b&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
 </div>
+
+</br>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=10000&pause=5000&color=6C09BD&vCenter=true&width=350&height=30&lines=A+LITTLE+ABOUT+MY+STUDY+FOCUS"/></a>
+[![KG's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KAYOKG&bg_color=0a0c10&color=937CD5&line=6474B9&point=937CD5&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-| <h2><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3500&color=6C09BD&vCenter=true&width=110&height=20&lines=Front-end" alt="Typing SVG" /></h2> | | <h2><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=4000&color=6C09BD&vCenter=true&width=100&height=20&lines=Back-End" alt="Typing SVG" /></h2> | | <h2><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=4500&color=6C09BD&vCenter=true&width=75&height=20&lines=Mobile" alt="Typing SVG" /></h2> |
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=10000&pause=5000&color=6474B9&vCenter=true&width=350&height=30&lines=A+LITTLE+ABOUT+MY+STUDY+FOCUS"/></a>
+
+| <h2><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3500&color=6474B9&vCenter=true&width=110&height=20&lines=Front-end" alt="Typing SVG" /></h2> | | <h2><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=4000&color=6474B9&vCenter=true&width=100&height=20&lines=Back-End" alt="Typing SVG" /></h2> | | <h2><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=4500&color=6474B9&vCenter=true&width=75&height=20&lines=Mobile" alt="Typing SVG" /></h2> |
 | - | - | - | - | - |
 | <h3 align="center"> <img width="100px" src="https://img.shields.io/badge/figma%20-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/> </br> <img width="100px" src="https://img.shields.io/badge/react%20JS%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> </br> <img width="100px" src ="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=TypeScript&logoColor=white"/> </br> <img width="100px" src ="https://img.shields.io/badge/webflow-4353FF?style=for-the-badge&logo=WordPress&logoColor=white"/> </br> <img width="100px" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> </br> <img width="100px" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> </br> <img width="100px" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/></h3> |  | <h3 align="center">  <img width="100px" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/> </br> <img width="100vw" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> </br> <img width="100px" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> </br> <img width="100px" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/></h3> |  | <h3 align="star"> </br> <img width="100px" src ="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/> </br> <img width="100px" src ="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> </br> <img width="100px" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white"/></h3> |
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=6C09BD&vCenter=true&width=370&height=40&lines=Especialização • DevOps e Cloud"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=6474B9&vCenter=true&width=370&height=40&lines=Especialização • DevOps e Cloud"/>
 
 | <h4 align="center">Containerização <img width="100px" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/> Orquestração <img width="100px" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/> <img width="100px"  src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/></h4> | <h4 align="center">Operadores do Kubernetes <img width="100px"  src="https://img.shields.io/badge/crossplane-183d54.svg?&style=for-the-badge&logo=Crossplane&logoColor=white"/> <img width="100px"  src="https://img.shields.io/badge/Knative-024c93.svg?&style=for-the-badge&logo=Knative&logoColor=white"/></h4>  | <h4 align="center">Infraestrutura como código (IaC) <img width="100px"  src="https://img.shields.io/badge/crossplane-183d54.svg?&style=for-the-badge&logo=Crossplane&logoColor=white"/> <img width="100px"  src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/></h4> | <h4 align="center">gerenciar os manifestos Kubernetes <img width="100px"  src="https://img.shields.io/badge/cdk8s-d8e3ea.svg?&style=for-the-badge&logo=cdk8s&logoColor=white"/></h4> |  <h4 align="center">Automação de configuração <img width="100px" src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white"/></h4>  |
 | - | - | - | - | - |
@@ -35,7 +41,7 @@
 
 </div>
 
-## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=6C09BD&vCenter=true&width=85&height=20&lines=Socials" alt="Typing SVG" /></a>
+## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=6474B9&vCenter=true&width=85&height=20&lines=Socials" alt="Typing SVG" /></a>
 
 <div>
   <a href="https://discord.com/channels/@me/925586869255831643" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/kayo-galdino/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/dc](https://www.instagram.com/kayogaldino/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> 
@@ -43,4 +49,4 @@
   <a href="https://visitcount.itsvg.in"><img align="right" src="https://visitcount.itsvg.in/api?id=KAYOKG&label=Profile%20Views&color=12&icon=5&pretty=true" /></a>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6c09bd&height=180&section=footer&text=What+I+don't+know%2C+give+me+a+few+days&fontSize=30&fontColor=6407b0&animation=twinkling&fontAlignY=55"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=423A5E&height=180&section=footer&text=What+I+don't+know%2C+give+me+a+few+days&fontSize=30&fontColor=6474B9&animation=twinkling&fontAlignY=55"/>
