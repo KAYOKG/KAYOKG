@@ -52,4 +52,6 @@
   <a href="https://github.com/KAYOKG"><img align="right" src="https://visitcount.itsvg.in/api?id=KAYOKG&label=Profile%20Views&color=12&icon=5&pretty=true" /></a>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=423A5E&height=180&section=footer&text=What+I+don't+know%2C+give+me+a+few+days&fontSize=30&fontColor=6474B9&animation=twinkling&fontAlignY=55"/>
+<a href="https://github.com/KAYOKG">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=423A5E&height=180&section=footer&text=What+I+don't+know%2C+give+me+a+few+days&fontSize=30&fontColor=6474B9&animation=twinkling&fontAlignY=55"/>
+</a>
