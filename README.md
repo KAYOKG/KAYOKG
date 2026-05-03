@@ -30,6 +30,9 @@
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KAYOKG&bg_color=1a1b27&color=937CD5&line=6474B9&point=937CD5&area=true&hide_border=true"/>
 </div>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=KAYOKG&theme=darkhub&column=7&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+</div>
 
 ---
 
