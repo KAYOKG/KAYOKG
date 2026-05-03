@@ -4,14 +4,13 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6474B9&size=23&center=true&vCenter=true&width=700&lines=Hi,+I'm+Kayo+Galdino+👋;Information+Systems+student+at+UFU;Full-Stack+%26+DevOps+Engineer;From+Manhuaçu,+MG+—+Brazil;What+I+don't+know,+give+me+a+few+days.)](https://github.com/KAYOKG)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6474B9&size=22&center=true&vCenter=true&width=700&lines=Hi,+I'm+Kayo+Galdino+👋;Information+Systems+student+at+UFU;Full-Stack+%26+DevOps+Engineer;From+Manhuaçu,+MG+—+Brazil;What+I+don't+know,+give+me+a+few+days.)](https://github.com/KAYOKG)
 
 <a href="https://www.linkedin.com/in/kayo-galdino/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Kayo%20Galdino-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<img src="https://visitcount.itsvg.in/api?id=KAYOKG&label=Profile%20Views&color=6&icon=5&pretty=true"/>
-![viewer count](https://komarev.com/ghpvc/?username=KAYOKG&abbreviated=true)
+<img src="https://komarev.com/ghpvc/?username=KAYOKG&color=6474B9&style=for-the-badge&label=Profile+Views"/>
 
 </div>
 
@@ -23,6 +22,12 @@
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=KAYOKG&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
   &nbsp;
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAYOKG&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <a href="https://app.daily.dev/kayogaldino">
+    <img height="300px" src="https://github.com/KAYOKG/KAYOKG/blob/main/devcard.svg" alt="Kayo Galdino's Dev Card"/>
+  </a>
 </div>
 
 <div align="center">
