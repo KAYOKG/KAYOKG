@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-Kayo%20Galdino-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=KAYOKG&color=6474B9&style=for-the-badge&label=Profile+Views"/>
+<img src="https://komarev.com/ghpvc/?username=KAYOKG&color=6474B9&style=for-the-badge&label=Profile+Views&base=56000&abbreviated=true"/>
 
 </div>
 
