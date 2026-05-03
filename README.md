@@ -19,13 +19,13 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=KAYOKG&show_icons=true&count_private=true&hide_border=true&title_color=6474B9&icon_color=6474B9&text_color=937CD5&bg_color=0a0c10&include_all_commits=true&rank_icon=github" alt="GitHub Stats"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=KAYOKG&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
   &nbsp;
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAYOKG&layout=compact&hide_border=true&title_color=6474B9&text_color=937CD5&bg_color=0a0c10" alt="Top Languages"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAYOKG&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KAYOKG&bg_color=0a0c10&color=937CD5&line=6474B9&point=937CD5&area=true&hide_border=true"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KAYOKG&bg_color=1a1b27&color=937CD5&line=6474B9&point=937CD5&area=true&hide_border=true"/>
 </div>
 
 ---
