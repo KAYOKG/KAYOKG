@@ -11,7 +11,7 @@
 </a>
 &nbsp;
 <img src="https://visitcount.itsvg.in/api?id=KAYOKG&label=Profile%20Views&color=6&icon=5&pretty=true"/>
-![](https://komarev.com/ghpvc/?username=KAYOKG&abbreviated=true)
+![viewer count](https://komarev.com/ghpvc/?username=KAYOKG&abbreviated=true)
 
 </div>
 
