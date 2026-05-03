@@ -23,7 +23,7 @@
   </a>
   &nbsp;
   <a href="https://app.daily.dev/kayogaldino">
-    <img src="https://github.com/KAYOKG/KAYOKG/blob/main/devcard.svg" alt="Kayo Galdino's Dev Card"/>
+    <img height="250px" src="https://github.com/KAYOKG/KAYOKG/blob/main/devcard.svg" alt="Kayo Galdino's Dev Card"/>
   </a>
 </div>
 
