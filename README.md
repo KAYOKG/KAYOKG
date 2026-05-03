@@ -19,9 +19,11 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=KAYOKG&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <a href="https://git.io/awesome-stats-card">
+    <img height="180px" src="https://awesome-github-stats.azurewebsites.net/user-stats/KAYOKG?theme=tokyonight&cardType=level-alternate" alt="Kayo Galdino's GitHub Stats"/>
+  </a>
   &nbsp;
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAYOKG&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <!-- <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAYOKG&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/> -->
 </div>
 
 <div align="center">
