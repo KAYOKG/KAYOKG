@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6474B9&size=22&center=true&vCenter=true&width=700&lines=Hi,+I'm+Kayo+Galdino+👋;Information+Systems+student+at+UFU;Full-Stack+%26+DevOps+Engineer;From+Manhuaçu,+MG+—+Brazil;What+I+don't+know,+give+me+a+few+days.)](https://github.com/KAYOKG)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6474B9&size=23&center=true&vCenter=true&width=700&lines=Hi,+I'm+Kayo+Galdino+👋;Information+Systems+student+at+UFU;Full-Stack+%26+DevOps+Engineer;From+Manhuaçu,+MG+—+Brazil;What+I+don't+know,+give+me+a+few+days.)](https://github.com/KAYOKG)
 
 <a href="https://www.linkedin.com/in/kayo-galdino/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Kayo%20Galdino-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -15,7 +15,7 @@
 </div>
 
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 ## 📊 GitHub Stats
 
 <div align="center">
