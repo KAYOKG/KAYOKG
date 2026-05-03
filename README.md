@@ -20,7 +20,7 @@
 
 <div align="center">
   <a href="https://git.io/awesome-stats-card">
-    <img height="180px" src="https://awesome-github-stats.azurewebsites.net/user-stats/KAYOKG?theme=tokyonight&cardType=level-alternate" alt="Kayo Galdino's GitHub Stats"/>
+    <img height="180px" src="https://awesome-github-stats.azurewebsites.net/user-stats/KAYOKG?cardType=level-alternate&background=0a0c10&border=6474B9&ring=6474B9&title=6474B9&text=937CD5&icon=937CD5" alt="Kayo Galdino's GitHub Stats"/>
   </a>
   &nbsp;
   <!-- <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAYOKG&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/> -->
