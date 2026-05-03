@@ -18,7 +18,6 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app?username=KAYOKG&theme=darkhub&column=6&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="100" alt="trophy graph"  />
   <a href="https://git.io/awesome-stats-card">
     <img height="220px" src="https://awesome-github-stats.azurewebsites.net/user-stats/KAYOKG?cardType=level-alternate&background=0a0c10&border=6474B9&ring=6474B9&title=6474B9&text=937CD5&icon=937CD5" alt="Kayo Galdino's GitHub Stats"/>
   </a>
@@ -129,6 +128,12 @@
 </div>
 
 ---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KAYOKG/KAYOKG/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KAYOKG/KAYOKG/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/KAYOKG/KAYOKG/output/pacman-contribution-graph.svg">
+</picture>
 
 <a href="https://github.com/KAYOKG">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2D1B69&height=160&section=footer&text=What+I+don't+know,+give+me+a+few+days&fontSize=22&fontColor=6474B9&animation=twinkling&fontAlignY=55"/>
