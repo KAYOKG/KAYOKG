@@ -76,8 +76,9 @@
 
 <div align="center">
 
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Docker Swarm](https://img.shields.io/badge/Docker_Swarm-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![K3s](https://img.shields.io/badge/k3s-FFC61C?style=for-the-badge&logo=k3s&logoColor=black)
+![Amazon EKS](https://img.shields.io/badge/Amazon%20EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white)
 
 </div>
 
@@ -95,7 +96,6 @@
 
 <div align="center">
 
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Argo CD](https://img.shields.io/badge/Argo_CD-1e0b3e?style=for-the-badge&logo=argo&logoColor=white)
 ![cdk8s](https://img.shields.io/badge/cdk8s-d8e3ea?style=for-the-badge&logo=cdk8s&logoColor=black)
