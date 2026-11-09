@@ -35,6 +35,10 @@ jobs:
             "https://github-readme-activity-graph.vercel.app/graph?$Q" \
             "https://activity-graph.vercel.app/graph?$Q" \
             "https://github-readme-activity-graph-two.vercel.app/graph?$Q"
+          S='username=KAYOKG&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true'
+          L='username=KAYOKG&layout=compact&theme=tokyonight&hide_border=true'
+          baixar stats/stats.svg "https://github-readme-stats.vercel.app/api?$S" "https://github-readme-stats-salesp07.vercel.app/api?$S" "https://github-readme-stats-one-bice.vercel.app/api?$S"
+          baixar stats/top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?$L" "https://github-readme-stats-salesp07.vercel.app/api/top-langs/?$L" "https://github-readme-stats-one-bice.vercel.app/api/top-langs/?$L"
       - name: Commit
         run: |
           git config user.name "github-actions[bot]"
