@@ -39,6 +39,8 @@ jobs:
           L='username=KAYOKGL='username=KAYOKG&layout=compact&theme=tokyonight&hide_border=true'layout=compactL='username=KAYOKG&layout=compact&theme=tokyonight&hide_border=true'theme=tokyonightL='username=KAYOKG&layout=compact&theme=tokyonight&hide_border=true'hide_border=trueL='username=KAYOKG&layout=compact&theme=tokyonight&hide_border=true'card_width=467'
           baixar stats/stats.svg "https://github-readme-stats.vercel.app/api?$S" "https://github-readme-stats-salesp07.vercel.app/api?$S" "https://github-readme-stats-one-bice.vercel.app/api?$S"
           baixar stats/top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?$L" "https://github-readme-stats-salesp07.vercel.app/api/top-langs/?$L" "https://github-readme-stats-one-bice.vercel.app/api/top-langs/?$L"
+      - name: Empilhar stats + linguagens
+        run: python3 scripts/juntar.py stats/stats.svg stats/top-langs.svg stats/esquerda.svg
       - name: Commit
         run: |
           git config user.name "github-actions[bot]"
