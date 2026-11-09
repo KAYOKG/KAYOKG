@@ -1,0 +1,43 @@
+name: Stats cards
+
+# Baixa os cards de estatistica uma vez por dia e guarda no repo. O README mostra a copia guardada:
+# se um servidor publico cair (ja aconteceu: 402 da Vercel), fica a ultima imagem boa, nunca uma quebrada.
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Baixar cards
+        shell: bash
+        run: |
+          baixar() {  # destino, depois URLs candidatas em ordem
+            local destino="$1"; shift
+            for url in "$@"; do
+              if curl -fsSL -m 30 "$url" -o /tmp/card.svg && grep -q "<svg" /tmp/card.svg; then
+                mv /tmp/card.svg "$destino"; echo "ok $destino <- $url"; return 0
+              fi
+              echo "falhou $url"
+            done
+            echo "::warning::$destino mantido na versao anterior"
+          }
+          Q='username=KAYOKG&bg_color=1a1b27&color=937CD5&line=6474B9&point=937CD5&area=true&hide_border=true'
+          baixar stats/level.svg \
+            "https://awesome-github-stats.azurewebsites.net/user-stats/KAYOKG?cardType=level-alternate&background=0a0c10&border=6474B9&ring=6474B9&title=6474B9&text=937CD5&icon=937CD5"
+          baixar stats/activity.svg \
+            "https://github-readme-activity-graph.vercel.app/graph?$Q" \
+            "https://activity-graph.vercel.app/graph?$Q" \
+            "https://github-readme-activity-graph-two.vercel.app/graph?$Q"
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add stats
+          git diff --cached --quiet || (git commit -m "chore: atualiza cards de estatistica" && git push)
