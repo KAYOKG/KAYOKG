@@ -67,7 +67,6 @@
 
 </div>
 
----
 
 ## ☁️ DevOps & Cloud
 
