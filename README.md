@@ -27,7 +27,7 @@
     </td>
     <td align="center">
       <a href="https://app.daily.dev/kayogaldino">
-        <img height="350px" src="https://github.com/KAYOKG/KAYOKG/blob/main/devcard.svg" alt="Kayo Galdino's Dev Card"/>
+        <img height="366px" src="https://github.com/KAYOKG/KAYOKG/blob/main/devcard.svg" alt="Kayo Galdino's Dev Card"/>
       </a>
     </td>
   </tr>
