@@ -29,7 +29,6 @@
   <img width="100%" src="./stats/activity.svg"/>
 </div>
 
----
 
 ## 🛠️ Tech Stack
 
