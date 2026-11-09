@@ -21,9 +21,9 @@
 <table>
   <tr>
     <td align="center">
-      <img height="170px" src="./stats/stats.svg" alt="GitHub Stats"/>
+      <img width="467px" src="./stats/stats.svg" alt="GitHub Stats"/>
       <br/>
-      <img height="170px" src="./stats/top-langs.svg" alt="Top Languages"/>
+      <img width="467px" src="./stats/top-langs.svg" alt="Top Languages"/>
     </td>
     <td align="center">
       <a href="https://app.daily.dev/kayogaldino">
