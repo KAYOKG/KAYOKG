@@ -18,20 +18,11 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-<table>
-  <tr>
-    <td align="center">
-      <img width="467px" src="./stats/stats.svg" alt="GitHub Stats"/>
-      <br/>
-      <img width="467px" src="./stats/top-langs.svg" alt="Top Languages"/>
-    </td>
-    <td align="center">
-      <a href="https://app.daily.dev/kayogaldino">
-        <img height="366px" src="https://github.com/KAYOKG/KAYOKG/blob/main/devcard.svg" alt="Kayo Galdino's Dev Card"/>
-      </a>
-    </td>
-  </tr>
-</table>
+  <img height="360px" src="./stats/esquerda.svg" alt="GitHub Stats e linguagens"/>
+  &nbsp;
+  <a href="https://app.daily.dev/kayogaldino">
+    <img height="360px" src="https://github.com/KAYOKG/KAYOKG/blob/main/devcard.svg" alt="Kayo Galdino's Dev Card"/>
+  </a>
 </div>
 
 <div align="center">
