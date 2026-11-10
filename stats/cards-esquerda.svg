@@ -8,7 +8,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">KG's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 15482, Total Commits  : 15482, Total PRs: 29, Total Issues: 5, Contributed to (last year): 3</desc>
+        <desc id="descId">Total Stars Earned: 15483, Total Commits  : 15483, Total PRs: 33, Total Issues: 5, Contributed to (last year): 3</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -66,7 +66,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 67.15002468230658;
+        stroke-dashoffset: 64.6109070254996;
       }
     }
   
@@ -170,7 +170,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >5k</text>
+      >5.1k</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -185,7 +185,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >29</text>
+      >33</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -352,7 +352,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="151.46"
+          width="202.94"
           height="8"
           fill="#f1e05a"
         />
@@ -360,19 +360,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="151.46"
+          x="202.94"
           y="0"
-          width="142.72"
-          height="8"
-          fill="#e34c26"
-        />
-      
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="294.18"
-          y="0"
-          width="61.93"
+          width="80.51"
           height="8"
           fill="#3178c6"
         />
@@ -380,9 +370,19 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="356.11"
+          x="283.45"
           y="0"
-          width="43.88"
+          width="71.45"
+          height="8"
+          fill="#e34c26"
+        />
+      
+        <rect
+          mask="url(#rect-mask)"
+          data-testid="lang-progress"
+          x="354.9"
+          y="0"
+          width="54.98"
           height="8"
           fill="#b07219"
         />
@@ -390,11 +390,11 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="399.99"
+          x="409.88"
           y="0"
-          width="17.01"
+          width="17.11"
           height="8"
-          fill="#555555"
+          fill="#663399"
         />
       
   
@@ -403,35 +403,35 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript 36.32%
+        JavaScript 48.67%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
-      <circle cx="5" cy="6" r="5" fill="#e34c26" />
+      <circle cx="5" cy="6" r="5" fill="#3178c6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        HTML 34.22%
+        TypeScript 19.31%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
-      <circle cx="5" cy="6" r="5" fill="#3178c6" />
+      <circle cx="5" cy="6" r="5" fill="#e34c26" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript 14.85%
+        HTML 17.13%
       </text>
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#b07219" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Java 10.52%
+        Java 13.19%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
-      <circle cx="5" cy="6" r="5" fill="#555555" />
+      <circle cx="5" cy="6" r="5" fill="#663399" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C 4.08%
+        CSS 1.71%
       </text>
     </g>
   </g></g>
