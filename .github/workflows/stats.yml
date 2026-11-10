@@ -21,7 +21,7 @@ jobs:
           baixar() {  # destino, depois URLs candidatas em ordem
             local destino="$1"; shift
             for url in "$@"; do
-              if curl -fsSL -m 30 "$url" -o /tmp/card.svg && grep -q "<svg" /tmp/card.svg; then
+              if curl -fsSL -m 30 "$url" -o /tmp/card.svg && grep -q "<svg" /tmp/card.svg && ! grep -qiE "Something went wrong|Missing params" /tmp/card.svg; then
                 mv /tmp/card.svg "$destino"; echo "ok $destino <- $url"; return 0
               fi
               echo "falhou $url"
@@ -35,10 +35,10 @@ jobs:
             "https://github-readme-activity-graph.vercel.app/graph?$Q" \
             "https://activity-graph.vercel.app/graph?$Q" \
             "https://github-readme-activity-graph-two.vercel.app/graph?$Q"
-          S='username=KAYOKG&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true'
-          L='username=KAYOKGL='username=KAYOKG&layout=compact&theme=tokyonight&hide_border=true'layout=compactL='username=KAYOKG&layout=compact&theme=tokyonight&hide_border=true'theme=tokyonightL='username=KAYOKG&layout=compact&theme=tokyonight&hide_border=true'hide_border=trueL='username=KAYOKG&layout=compact&theme=tokyonight&hide_border=true'card_width=467'
-          baixar stats/stats.svg "https://github-readme-stats.vercel.app/api?$S" "https://github-readme-stats-salesp07.vercel.app/api?$S" "https://github-readme-stats-one-bice.vercel.app/api?$S"
-          baixar stats/top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?$L" "https://github-readme-stats-salesp07.vercel.app/api/top-langs/?$L" "https://github-readme-stats-one-bice.vercel.app/api/top-langs/?$L"
+          S='username=KAYOKG&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true&card_width=467'
+          L='username=KAYOKG&layout=compact&theme=tokyonight&hide_border=true&card_width=467'
+          baixar stats/stats.svg "https://github-readme-stats-salesp07.vercel.app/api?$S" "https://github-readme-stats-one-bice.vercel.app/api?$S" "https://github-readme-stats.vercel.app/api?$S"
+          baixar stats/top-langs.svg "https://github-readme-stats-salesp07.vercel.app/api/top-langs/?$L" "https://github-readme-stats-one-bice.vercel.app/api/top-langs/?$L" "https://github-readme-stats.vercel.app/api/top-langs/?$L"
       - name: Empilhar stats + linguagens
         run: python3 scripts/juntar.py stats/stats.svg stats/top-langs.svg stats/esquerda.svg
       - name: Commit
