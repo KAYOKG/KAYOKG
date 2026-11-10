@@ -40,7 +40,7 @@ jobs:
           baixar stats/stats.svg "https://github-readme-stats-salesp07.vercel.app/api?$S" "https://github-readme-stats-one-bice.vercel.app/api?$S" "https://github-readme-stats.vercel.app/api?$S"
           baixar stats/top-langs.svg "https://github-readme-stats-salesp07.vercel.app/api/top-langs/?$L" "https://github-readme-stats-one-bice.vercel.app/api/top-langs/?$L" "https://github-readme-stats.vercel.app/api/top-langs/?$L"
       - name: Empilhar stats + linguagens
-        run: python3 scripts/juntar.py stats/stats.svg stats/top-langs.svg stats/esquerda.svg
+        run: python3 scripts/juntar.py stats/stats.svg stats/top-langs.svg stats/cards-esquerda.svg
       - name: Commit
         run: |
           git config user.name "github-actions[bot]"
