@@ -18,7 +18,7 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img height="360px" src="./stats/esquerda.svg?v=2" alt="GitHub Stats e linguagens"/>
+  <img height="360px" src="./stats/cards-esquerda.svg" alt="GitHub Stats e linguagens"/>
   &nbsp;
   <a href="https://app.daily.dev/kayogaldino">
     <img height="360px" src="https://github.com/KAYOKG/KAYOKG/blob/main/devcard.svg" alt="Kayo Galdino's Dev Card"/>
