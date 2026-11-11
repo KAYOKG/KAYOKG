@@ -55,7 +55,7 @@
             stroke-dasharray: 0,2000;
         }
         to {
-            stroke-dasharray: 329.92,2000;
+            stroke-dasharray: 330.21,2000;
         }
     }
 
@@ -145,7 +145,7 @@
         <g transform="translate(250, 100)">
             <rect x="0" y="0" width="175" rx="5" height="8" class="progressbar-opacity" />
             <rect x="0" y="0" width="0" rx="5" height="8" class="progressbar">
-                <animate attributeName="width" from="0" to="160.37813179347825" begin="1s" dur="2s" fill="freeze"></animate>
+                <animate attributeName="width" from="0" to="160.51760869565217" begin="1s" dur="2s" fill="freeze"></animate>
             </rect>
         </g>
 
@@ -159,7 +159,7 @@
                     </svg>
 
                     <text class="stat bold" x="25" y="12.5">Total Stars:</text>
-                    <text class="stat" x="160" y="12.5" data-testid="stars">61.2K</text>
+                    <text class="stat" x="160" y="12.5" data-testid="stars">61.3K</text>
                 </g>
             </g>
             <g transform="translate(0, 27)">
@@ -170,7 +170,7 @@
                     </svg>
 
                     <text class="stat bold" x="25" y="12.5">Total Commits:</text>
-                    <text class="stat" x="160" y="12.5" data-testid="commits">4.1K</text>
+                    <text class="stat" x="160" y="12.5" data-testid="commits">4.3K</text>
                 </g>
             </g>
             <g transform="translate(0, 54)">
