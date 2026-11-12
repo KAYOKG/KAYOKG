@@ -55,7 +55,7 @@
             stroke-dasharray: 0,2000;
         }
         to {
-            stroke-dasharray: 330.21,2000;
+            stroke-dasharray: 330.34,2000;
         }
     }
 
@@ -145,7 +145,7 @@
         <g transform="translate(250, 100)">
             <rect x="0" y="0" width="175" rx="5" height="8" class="progressbar-opacity" />
             <rect x="0" y="0" width="0" rx="5" height="8" class="progressbar">
-                <animate attributeName="width" from="0" to="160.51760869565217" begin="1s" dur="2s" fill="freeze"></animate>
+                <animate attributeName="width" from="0" to="160.5818070652174" begin="1s" dur="2s" fill="freeze"></animate>
             </rect>
         </g>
 
